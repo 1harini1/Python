@@ -1,4 +1,4 @@
-##
+**Type:** CLI-Based Projects
 
 ### CampusPulse 
 A student management system where you can add students, view student details, generate individual reports, and calculate class statistics such as class average, top student, and unique subjects.
