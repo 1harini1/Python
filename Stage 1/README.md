@@ -1,3 +1,5 @@
+**Type:** CLI-Based Projects
+
 ### 1. Alien Job Interview 
 An interactive interview game where the user enters their name, age, and strongest skill. The program evaluates their answers and decides whether they are **hired or rejected**.
 
